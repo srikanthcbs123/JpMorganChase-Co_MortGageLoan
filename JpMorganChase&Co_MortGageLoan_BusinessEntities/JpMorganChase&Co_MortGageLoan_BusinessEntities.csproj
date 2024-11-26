@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>JpMorganChase_Co_MortGageLoan_BusinessEntities</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JpMorganChase&amp;Co_MortGageLoan_DBContext\JpMorganChase&amp;Co_MortGageLoan_DBContext.csproj" />
+  </ItemGroup>
+
+</Project>
